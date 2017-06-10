@@ -1,9 +1,12 @@
 {
 	"name": "youtube-video-to-frames",
-	"version": "1.0",
+	"version": "1.0.2",
 	"description": "Convert youtube video to screenshots",
 	"license": "MIT",
-	"repository": "github.com/cacheflow/youtube-video-to-frames",
+	"repository": {
+    "type": "git",
+    "url": "git@github.com:cacheflow/youtube-video-to-frames.git"
+  },
 	"author": {
     "name": "Lex Alexander",
     "email": "l.alexander10@gmail.com",
